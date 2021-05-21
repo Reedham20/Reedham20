@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://dev.to/reedham20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="reedham20" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/reedham-pujara-23323b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="reedham" height="30" width="40" /></a>
-<a href="https://instagram.com/reedham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="reedham" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_reedham__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="reedham" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
